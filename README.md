@@ -26,4 +26,4 @@ git submodule update --init --recursive
 
 - I submodule sono pinnati ai commit verificati; per aggiornarli:
   `git submodule update --remote backend frontend` (poi commit del nuovo pin).
-- Password nei doc root (`AUDIT`, `PROMPT`) = solo sviluppo, mai produzione.
+- Password nei report archiviati (`docs/superpowers/reports/`) = solo sviluppo, mai produzione.
