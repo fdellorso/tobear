@@ -89,7 +89,7 @@ Aggiungere `role="list"` al container di vuedraggable. **Verifica**: audit `list
 2. Testa localmente con `npm run dev` se possibile
 3. Commit con Conventional Commits EN
 4. **NON fare git push** — lo fa l utente dopo verifica
-5. Scrivi handoff in `frontend/handoffs/2026-07-07-performance-optimization.md` (o data corrente)
+5. Scrivi handoff in `frontend/docs/superpowers/handoffs/2026-07-07-performance-optimization.md` (o data corrente)
 
 ## Verifica post-build (locale)
 
@@ -107,7 +107,7 @@ Aggiungere `role="list"` al container di vuedraggable. **Verifica**: audit `list
 
 ## Output richiesto
 
-1. **Handoff** in `frontend/handoffs/` (data corrente, formato `2026-07-07-performance-optimization.md`)
+1. **Handoff** in `frontend/docs/superpowers/handoffs/` (data corrente, formato `2026-07-07-performance-optimization.md`)
 2. **Riepilogo modifiche** con file toccati e chunk sizes before/after
 3. **Stima impatto** su score Lighthouse (target: Performance 75-85, Accessibility 95+, SEO 100)
 4. **Commit** (no push) con messaggio `perf: optimize bundle splitting, compression, and a11y` (dettaglio task in PROMPT-archivio)

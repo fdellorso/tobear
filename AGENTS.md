@@ -18,7 +18,7 @@ All'inizio di OGNI sessione root, in quest'ordine:
 
 1. Leggi questo AGENTS.md per intero.
 2. Leggi `PROMPT.md` per intero.
-3. Leggi gli ultimi 2 file in `backend/handoffs/` e `frontend/handoffs/`
+3. Leggi gli ultimi 2 file in `backend/docs/superpowers/handoffs/` e `frontend/docs/superpowers/handoffs/`
    (ordinati per data, il più recente per primo).
 4. Solo dopo, chiedi cosa si vuole fare oggi.
 

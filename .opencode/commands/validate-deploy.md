@@ -15,7 +15,7 @@ Sei il Technical Lead del progetto Tobear. Esegui la validazione post-deploy su 
 1. Leggi docs/superpowers/reports/AUDIT-2026-07-06.md (audit completo, per contesto).
 2. Leggi backend/docs/superpowers/plans/2026-07-06-hardening.md (piano backend eseguito).
 3. Leggi frontend/docs/superpowers/plans/2026-07-06-hardening.md (piano frontend eseguito).
-4. Leggi gli ultimi handoff di entrambi i repo (backend/handoffs/ e frontend/handoffs/).
+4. Leggi gli ultimi handoff di entrambi i repo (backend/docs/superpowers/handoffs/ e frontend/docs/superpowers/handoffs/).
 
 ## Setup Playwright MCP
 

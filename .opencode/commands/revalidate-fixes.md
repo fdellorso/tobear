@@ -14,7 +14,7 @@ Sei il Technical Lead del progetto Tobear. Esegui la re-validazione post-fix su 
 1. Leggi docs/superpowers/reports/VALIDATION-2026-07-07.md (report validazione originale — per contesto sui FAIL/WARN trovati).
 2. Leggi backend/docs/superpowers/plans/2026-07-07-validation-fixes.md (piano backend eseguito).
 3. Leggi frontend/docs/superpowers/plans/2026-07-07-validation-fixes.md (piano frontend eseguito).
-4. Leggi gli ultimi handoff di entrambi i repo (backend/handoffs/ e frontend/handoffs/).
+4. Leggi gli ultimi handoff di entrambi i repo (backend/docs/superpowers/handoffs/ e frontend/docs/superpowers/handoffs/).
 
 ## Setup Playwright MCP
 

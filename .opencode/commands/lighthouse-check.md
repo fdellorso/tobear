@@ -11,7 +11,7 @@ Sei il Technical Lead del progetto Tobear. Verifica l impatto reale delle ottimi
 ## Bootstrap (OBBLIGATORIO)
 
 1. Leggi `frontend/AGENTS.md` (convenzioni + regola no-amend).
-2. Leggi l handoff della sessione di ottimizzazione (`frontend/handoffs/`, il più recente su performance).
+2. Leggi l handoff della sessione di ottimizzazione (`frontend/docs/superpowers/handoffs/`, il più recente su performance).
 3. Leggi `frontend/vite.config.js` (config build attuale).
 4. Solo dopo, esegui le verifiche.
 
@@ -73,7 +73,7 @@ npm run test:e2e:pwa
 
 ### 7. Documenta risultati
 
-Scrivi `frontend/handoffs/YYYY-MM-DD-lighthouse-verification.md` con:
+Scrivi `frontend/docs/superpowers/handoffs/YYYY-MM-DD-lighthouse-verification.md` con:
 - Screenshot Lighthouse (mobile reale 4x CPU) — se hai Playwright MCP, cattura uno screenshot
 - Tabella metriche before/after/target
 - Audit pass/fail
@@ -86,7 +86,7 @@ Colli residui: `unused-javascript` > 20KB → ulteriori split; LCP > 2.5s → pr
 
 ## Output richiesto
 
-1. **Handoff** in `frontend/handoffs/`
+1. **Handoff** in `frontend/docs/superpowers/handoffs/`
 2. **Riepilogo score** in tabella before/after/target
 3. **Eventuale commit** (no --amend, no push) per fix residui (se score < 85)
 
