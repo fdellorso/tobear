@@ -11,7 +11,7 @@ Sei il Technical Lead del progetto Tobear. Esegui la validazione post-deploy su 
 
 ## Bootstrap (OBBLIGATORIO)
 
-1. Leggi AUDIT-2026-07-06.md (audit completo, per contesto).
+1. Leggi docs/superpowers/reports/AUDIT-2026-07-06.md (audit completo, per contesto).
 2. Leggi backend/docs/plans/PLAN-hardening-2026-07-06.md (piano backend eseguito).
 3. Leggi frontend/docs/plans/PLAN-hardening-2026-07-06.md (piano frontend eseguito).
 4. Leggi gli ultimi handoff di entrambi i repo (backend/handoffs/ e frontend/handoffs/).
@@ -123,7 +123,7 @@ Sei il Technical Lead del progetto Tobear. Esegui la re-validazione post-fix su 
 
 ## Bootstrap (OBBLIGATORIO)
 
-1. Leggi VALIDATION-2026-07-07.md (report validazione originale — per contesto sui FAIL/WARN trovati).
+1. Leggi docs/superpowers/reports/VALIDATION-2026-07-07.md (report validazione originale — per contesto sui FAIL/WARN trovati).
 2. Leggi backend/docs/plans/PLAN-validation-fixes-2026-07-07.md (piano backend eseguito).
 3. Leggi frontend/docs/plans/PLAN-validation-fixes-2026-07-07.md (piano frontend eseguito).
 4. Leggi gli ultimi handoff di entrambi i repo (backend/handoffs/ e frontend/handoffs/).
@@ -209,7 +209,7 @@ Catch-all multi-segment: [PASS/FAIL]
 HTML completo (manifest/viewport/favicon): [PASS/FAIL]
 ```
 
-Confronto con VALIDATION-2026-07-07.md:
+Confronto con docs/superpowers/reports/VALIDATION-2026-07-07.md:
 - FAIL risolti: [elenco]
 - FAIL rimanenti: [elenco] (se presenti)
 - Nuovi problemi: [elenco] (se presenti)
@@ -241,8 +241,8 @@ Sei il Technical Lead del progetto Tobear. Implementa le ottimizzazioni emerse d
 
 ## Bootstrap (OBBLIGATORIO)
 
-1. Leggi `LH-REPORT-2026-07-07.md` (root `todos_app/`) — analisi completa Lighthouse con opportunità
-2. Leggi `RE-VALIDATION-2026-07-07.md` (root `todos_app/`) — stato attuale post-fix
+1. Leggi `docs/superpowers/reports/LH-REPORT-2026-07-07.md` — analisi completa Lighthouse con opportunità
+2. Leggi `docs/superpowers/reports/RE-VALIDATION-2026-07-07.md` — stato attuale post-fix
 3. Leggi `frontend/AGENTS.md` — convenzioni progetto
 4. Leggi `frontend/vite.config.js` — config build attuale (VitePWA, viteCompression gzip, cspDynamicPlugin)
 5. Leggi `frontend/index.html` — template HTML (canonical `%VITE_BASE_URL%`, registerSW.js, tag manifest/icon)

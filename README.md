@@ -6,8 +6,9 @@ Todo app in stile Clear (iOS/web): backend Laravel + frontend Vue PWA offline-fi
 
 - `backend/` — submodule `tobear-laravel-backend` (API REST, Sanctum cookie-based)
 - `frontend/` — submodule `tobear-vuejs-frontend` (Vue 3 + Vite + Tailwind, PWA)
-- File gestione in root: `PROMPT.md`, `AUDIT-2026-07-06.md`, `VALIDATION-*.md`,
-  `LH-REPORT-2026-07-07.md`, `INSTRUZIONI_toBear.md`, `opencode.json` (config root)
+- File gestione in root: `PROMPT.md`, `INSTRUZIONI_toBear.md`, `opencode.json` (config root)
+- Report/audit in `docs/superpowers/reports/`: `AUDIT-*`, `VALIDATION-*`,
+  `RE-VALIDATION-*`, `LH-REPORT-*` (+ allegati pwabuilder/snapshot)
 
 ## Clone
 

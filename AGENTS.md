@@ -36,5 +36,5 @@ All'inizio di OGNI sessione root, in quest'ordine:
 
 - Convenzioni API/auth/pattern → `backend/AGENTS.md`.
 - Convenzioni Vue/offline/PWA → `frontend/AGENTS.md`.
-- Piano validazione post-deploy → `PROMPT.md` (PROMPT 3).
+- Flussi trasversali (validazione, performance, lighthouse) → comandi in `.opencode/commands/` (ex PROMPT 3/6/7/8, testo integrale in `docs/superpowers/reports/PROMPT-archivio.md`).
 - Password nei doc root = solo sviluppo, mai produzione.
