@@ -1,0 +1,28 @@
+# toBear — super-repo
+
+Todo app in stile Clear (iOS/web): backend Laravel + frontend Vue PWA offline-first.
+
+## Struttura
+
+- `backend/` — submodule `tobear-laravel-backend` (API REST, Sanctum cookie-based)
+- `frontend/` — submodule `tobear-vuejs-frontend` (Vue 3 + Vite + Tailwind, PWA)
+- File gestione in root: `PROMPT.md`, `AUDIT-2026-07-06.md`, `VALIDATION-*.md`,
+  `LH-REPORT-2026-07-07.md`, `INSTRUZIONI_toBear.md`, `opencode.json` (config root)
+
+## Clone
+
+```bash
+git clone --recurse-submodules https://github.com/fdellorso/tobear.git
+```
+
+Chi ha già clonato senza submodule:
+
+```bash
+git submodule update --init --recursive
+```
+
+## Note
+
+- I submodule sono pinnati ai commit verificati; per aggiornarli:
+  `git submodule update --remote backend frontend` (poi commit del nuovo pin).
+- Password nei doc root (`AUDIT`, `PROMPT`) = solo sviluppo, mai produzione.
