@@ -37,4 +37,8 @@ All'inizio di OGNI sessione root, in quest'ordine:
 - Convenzioni API/auth/pattern → `backend/AGENTS.md`.
 - Convenzioni Vue/offline/PWA → `frontend/AGENTS.md`.
 - Flussi trasversali (validazione, performance, lighthouse) → comandi in `.opencode/commands/` (ex PROMPT 3/6/7/8, testo integrale in `docs/superpowers/reports/PROMPT-archivio.md`).
+- Nuovi documenti: docs/superpowers/{plans,specs,reports,handoffs}/ nel repo giusto
+  (root se trasversali be+fe, altrimenti nel submodule); nomi YYYY-MM-DD-*, tutto committato.
+  (plans/specs seguono le skill superpowers, reports/handoffs per analogia).
+- Output Playwright MCP in /tmp/tobear-playwright-root (config --output-dir in opencode.json), mai in repo.
 - Password nei doc root = solo sviluppo, mai produzione.
