@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/fdellorso/tobear-laravel-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/fdellorso/tobear-vuejs-frontend.git
