@@ -1,0 +1,303 @@
+- generic [ref=f3e3]:
+  - main [ref=f3e4]:
+    - generic [ref=f3e225]:
+      - generic [ref=f3e227]:
+        - img "PWABuilder logo" [ref=f3e228] [cursor=pointer]
+        - navigation [ref=f3e229]:
+          - button "Community" [ref=f3e231]:
+            - generic [ref=f3e232]: Community
+      - generic [ref=f3e234]:
+        - generic [ref=f3e235]:
+          - generic [ref=f3e435]:
+            - generic [ref=f3e437]:
+              - img "Your app logo" [ref=f3e439]
+              - generic [ref=f3e440]:
+                - heading "tobear Report card page for tobear" [level=1] [ref=f3e441]:
+                  - text: tobear
+                  - generic: Report card page for tobear
+                - paragraph [ref=f3e442]: tobear.x10.mx/app/manifest.webmanifest
+                - paragraph [ref=f3e443]: An app to bear in mind
+              - button "Share score" [ref=f3e445]
+            - generic [ref=f3e450]:
+              - generic [ref=f3e451]:
+                - text: Last tested seconds ago
+                - button "View log" [ref=f3e453] [cursor=pointer]:
+                  - generic [ref=f3e454]: View log
+              - button "retest site" [ref=f3e455]:
+                - img "retest site" [ref=f3e456]
+          - generic [ref=f3e248]:
+            - generic [ref=f3e249]:
+              - button "Package For Stores" [ref=f3e457]
+              - button "Download Test Package" [ref=f3e255]:
+                - paragraph [ref=f3e256]: Download Test Package
+            - generic [ref=f3e257]:
+              - paragraph [ref=f3e258]: "Available stores:"
+              - img "Windows" [ref=f3e259]
+              - img "iOS" [ref=f3e260]
+              - img "Android" [ref=f3e261]
+        - generic [ref=f3e263]:
+          - generic [ref=f3e264]:
+            - heading "Action Items" [level=2] [ref=f3e266]
+            - generic [ref=f3e458]:
+              - generic "Waiving Mani Filter through notifications as and when you need!" [ref=f3e459]:
+                - button "0" [pressed] [ref=f3e460]:
+                  - generic [ref=f3e461]: "0"
+                - button "1" [pressed] [ref=f3e462]:
+                  - generic [ref=f3e463]: "1"
+                - button "0" [pressed] [ref=f3e464]:
+                  - generic [ref=f3e465]: "0"
+                - button "7" [pressed] [ref=f3e466]:
+                  - generic [ref=f3e467]: "7"
+              - generic [ref=f3e472]:
+                - img "Waiving Mani" [ref=f3e473]
+                - paragraph [ref=f3e474]:
+                  - text: Filter through notifications
+                  - text: as and when you need!
+          - generic [ref=f3e271]:
+            - group [ref=f3e477]:
+              - button "Make your app faster and more reliable by adding a service worker." [ref=f3e478] [cursor=pointer]:
+                - generic [ref=f3e479]: Make your app faster and more reliable by adding a service worker.
+                - img [ref=f3e483]
+              - generic:
+                - generic: Learn more
+            - group [ref=f3e487]:
+              - button "Let users open files with your PWA by adding file_handlers to your manifest." [ref=f3e488] [cursor=pointer]:
+                - generic [ref=f3e489]: Let users open files with your PWA by adding file_handlers to your manifest.
+                - img [ref=f3e493]
+              - generic:
+                - generic: Learn more
+                - generic: Edit in manifest
+            - group [ref=f3e497]:
+              - 'button "Let your app handle protocols like mailto: or sms:, or custom protocols like web+mypwa:, by adding protocol_handlers to your manifest." [ref=f3e498] [cursor=pointer]':
+                - generic [ref=f3e499]: "Let your app handle protocols like mailto: or sms:, or custom protocols like web+mypwa:, by adding protocol_handlers to your manifest."
+                - img [ref=f3e503]
+              - generic:
+                - generic: Learn more
+                - generic: Edit in manifest
+            - group [ref=f3e507]:
+              - button "Make your app appear in the OS share tray by adding share_target to your manifest." [ref=f3e508] [cursor=pointer]:
+                - generic [ref=f3e509]: Make your app appear in the OS share tray by adding share_target to your manifest.
+                - img [ref=f3e513]
+              - generic:
+                - generic: Learn more
+                - generic: Edit in manifest
+            - group [ref=f3e517]:
+              - button "Let users add your app as a widget." [ref=f3e518] [cursor=pointer]:
+                - generic [ref=f3e519]: Let users add your app as a widget.
+                - img [ref=f3e523]
+              - generic:
+                - generic: Learn more
+                - generic: Edit in manifest
+            - group [ref=f3e527]:
+              - button "Make your app pinnable to the sidebar by adding edge_side_panel to your manifest." [ref=f3e528] [cursor=pointer]:
+                - generic [ref=f3e529]: Make your app pinnable to the sidebar by adding edge_side_panel to your manifest.
+                - img [ref=f3e533]
+              - generic:
+                - generic: Learn more
+                - generic: Edit in manifest
+            - group [ref=f3e537]:
+              - button "Let users open multiple tabs within your PWA by adding tabbed to your manifest's display_override." [ref=f3e538] [cursor=pointer]:
+                - generic [ref=f3e539]: Let users open multiple tabs within your PWA by adding tabbed to your manifest's display_override.
+                - img [ref=f3e543]
+              - generic:
+                - generic: Learn more
+                - generic: Edit in manifest
+            - group [ref=f3e547]:
+              - button "Register as a notes app to integrate with the OS's note-taking capabilities." [ref=f3e548] [cursor=pointer]:
+                - generic [ref=f3e549]: Register as a notes app to integrate with the OS's note-taking capabilities.
+                - img [ref=f3e553]
+              - generic:
+                - generic: Learn more
+                - generic: Edit in manifest
+        - generic [ref=f3e273]:
+          - generic [ref=f3e274]:
+            - generic [ref=f3e276]:
+              - heading "Manifest" [level=2] [ref=f3e277]
+              - paragraph [ref=f3e555]: PWABuilder has analyzed your Web Manifest and your manifest is ready for packaging! We have identified recommended and optional fields that you can include to make your PWA better. Use our Manifest Editor to edit and update those fields.
+            - progressbar "Progress" [ref=f3e557]:
+              - img [ref=f3e558]
+              - generic [ref=f3e562]: 37 / 45
+            - generic [ref=f3e285]:
+              - button "Edit Your Manifest" [ref=f3e563]
+              - link "Manifest Documentation arrow" [ref=f3e564] [cursor=pointer]:
+                - /url: https://docs.pwabuilder.com/#/home/pwa-intro?id=web-app-manifests
+                - paragraph [ref=f3e565]: Manifest Documentation
+                - img "arrow" [ref=f3e566]
+          - group [ref=f3e287]:
+            - button "View Details dropdown toggler" [ref=f3e567] [cursor=pointer]:
+              - generic [ref=f3e568]:
+                - paragraph [ref=f3e569]: View Details
+                - img "dropdown toggler" [ref=f3e570]
+              - img [ref=f3e295]
+        - generic [ref=f3e297]:
+          - generic [ref=f3e299]:
+            - generic [ref=f3e300]:
+              - generic [ref=f3e301]:
+                - heading "Service Worker" [level=2] [ref=f3e302]
+                - paragraph [ref=f3e571]: PWABuilder has analyzed your site and did not find a Service Worker. Having a Service Worker is highly recommended as it enables powerful features that can enhance your PWA. You can generate a Service Worker below or use our documentation to make your own.
+              - progressbar "Progress" [ref=f3e573]:
+                - img [ref=f3e574]
+                - generic [ref=f3e577]: "+0"
+            - generic [ref=f3e309]:
+              - generic [ref=f3e310]:
+                - generic [ref=f3e312]:
+                  - generic "Information about HasServiceWorker":
+                    - button "Has Service Worker" [ref=f3e313]
+                - paragraph [ref=f3e318]: Has Service Worker
+              - generic [ref=f3e319]:
+                - generic [ref=f3e321]:
+                  - generic "Information about ServiceWorkerIsNotEmpty":
+                    - button "Has Logic" [ref=f3e322]
+                - paragraph [ref=f3e327]: Has Logic
+              - generic [ref=f3e328]:
+                - generic [ref=f3e330]:
+                  - generic "Information about PeriodicSync":
+                    - button "Periodic Sync" [ref=f3e331]
+                - paragraph [ref=f3e336]: Periodic Sync
+              - generic [ref=f3e337]:
+                - generic [ref=f3e339]:
+                  - generic "Information about BackgroundSync":
+                    - button "Background Sync" [ref=f3e340]
+                - paragraph [ref=f3e345]: Background Sync
+              - generic [ref=f3e346]:
+                - generic [ref=f3e348]:
+                  - generic "Information about PushNotifications":
+                    - button "Push Notifications" [ref=f3e349]
+                - paragraph [ref=f3e354]: Push Notifications
+              - generic [ref=f3e355]:
+                - generic [ref=f3e357]:
+                  - generic "Information about OfflineSupport":
+                    - button "Offline Support" [ref=f3e358]
+                - paragraph [ref=f3e363]: Offline Support
+            - generic [ref=f3e578]:
+              - button "Generate Service Worker" [ref=f3e579]
+              - link "Service Worker Documentation" [ref=f3e580] [cursor=pointer]:
+                - /url: https://docs.pwabuilder.com/#/home/sw-intro
+                - paragraph [ref=f3e581]: Service Worker Documentation
+          - generic [ref=f3e365]:
+            - generic [ref=f3e366]:
+              - generic [ref=f3e367]:
+                - heading "App Capabilities" [level=2] [ref=f3e368]
+                - paragraph [ref=f3e582]: PWABuilder has analyzed your PWA and has identified some app capabilities that could enhance your PWA
+              - progressbar "Progress" [ref=f3e584]:
+                - img [ref=f3e585]
+                - generic [ref=f3e588]: "+3"
+            - generic [ref=f3e375]:
+              - generic [ref=f3e376]:
+                - contentinfo "The shortcuts member defines an array of shortcuts or links to key tasks or pages within a web app. Shortcuts will show as jumplists on Windows and on the home screen on Android." [ref=f3e377]:
+                  - generic [ref=f3e378]:
+                    - generic:
+                      - generic:
+                        - button "shortcuts" [ref=f3e379]:
+                          - img "valid result indicator" [ref=f3e589]
+                        - generic:
+                          - generic: Edit in Manifest
+                - paragraph [ref=f3e380]: Shortcuts
+              - generic [ref=f3e381]:
+                - contentinfo "The file_handlers member specifies an array of objects representing the types of files an installed PWA can open." [ref=f3e382]:
+                  - button "file_handlers" [ref=f3e384]
+                - paragraph [ref=f3e385]: File Handlers
+              - generic [ref=f3e386]:
+                - contentinfo "The launch_handler member specifies how your app will launch when navigated. For example, you can specify that navigations to your PWA domain should focus an existing instance of your app (single-instance app), navigate in an existing instance, or open a new instance of your app." [ref=f3e387]:
+                  - button "launch_handler" [ref=f3e389]:
+                    - img "valid result indicator" [ref=f3e590]
+                - paragraph [ref=f3e390]: Launch Handler
+              - generic [ref=f3e391]:
+                - contentinfo "The protocol_handlers member specifies an array of objects that are protocols which this web app can register and handle. Protocol handlers register the application in an OS's application preferences; the registration associates a specific application with the given protocol scheme. For example, when using the protocol handler mailto:// on a web page, registered email applications open." [ref=f3e392]:
+                  - generic [ref=f3e393]:
+                    - generic:
+                      - generic:
+                        - button "protocol_handlers" [ref=f3e394]
+                        - generic:
+                          - generic: Edit in Manifest
+                - paragraph [ref=f3e395]: Protocol Handlers
+              - generic [ref=f3e396]:
+                - contentinfo "share_target enables your app to receive content shared from other apps." [ref=f3e397]:
+                  - generic [ref=f3e398]:
+                    - generic:
+                      - generic:
+                        - button "share_target" [ref=f3e399]
+                        - generic:
+                          - generic: Edit in Manifest
+                - paragraph [ref=f3e400]: Share Target
+              - generic [ref=f3e401]:
+                - contentinfo "Widgets are adaptive cards with text, images, an actions related to your app. On Windows, widgets appear over the desktop when the user clicks the widget taskbar icon or presses Win+W." [ref=f3e402]:
+                  - button "widgets" [ref=f3e404]
+                - paragraph [ref=f3e405]: Widgets
+              - generic [ref=f3e406]:
+                - contentinfo "The edge_side_panel member specifies if your app supports the side panel in Microsoft Edge." [ref=f3e407]:
+                  - generic [ref=f3e408]:
+                    - generic:
+                      - generic:
+                        - button "edge_side_panel" [ref=f3e409]
+                        - generic:
+                          - generic: Edit in Manifest
+                - paragraph [ref=f3e410]: Edge Side Panel
+              - generic [ref=f3e411]:
+                - contentinfo "The window-controls-overlay display mode allows you to customize your PWA's title bar, enabling a more app-like experience." [ref=f3e412]:
+                  - generic [ref=f3e413]:
+                    - generic:
+                      - generic:
+                        - button "display_override" [ref=f3e414]:
+                          - img "valid result indicator" [ref=f3e591]
+                        - generic:
+                          - generic: Edit in Manifest
+                - paragraph [ref=f3e415]: Window Controls Overlay
+              - generic [ref=f3e416]:
+                - contentinfo "The tabbed display mode allows your PWA to act as a multi-document interface, allowing for multiple tabs to be opened inside your PWA." [ref=f3e417]:
+                  - generic [ref=f3e418]:
+                    - generic:
+                      - generic:
+                        - button "display_override" [ref=f3e419]
+                        - generic:
+                          - generic: Edit in Manifest
+                - paragraph [ref=f3e420]: Tabbed Display
+              - generic [ref=f3e421]:
+                - contentinfo "The note_taking member identifies a web app as a note-taking app and defines related information, for example a URL pointing to functionality for taking a new note. This enables operating systems to integrate the app's note taking functionality, for example including a \"New note\" option in the app's context menu, or providing the app as an option for taking a note in other apps." [ref=f3e422]:
+                  - button "note_taking" [ref=f3e424]
+                - paragraph [ref=f3e425]: Note Taking
+            - generic [ref=f3e426]:
+              - link "App Capabilities documentation, will open in separate tab" [ref=f3e428] [cursor=pointer]:
+                - /url: https://docs.pwabuilder.com/#/builder/manifest
+                - paragraph [ref=f3e429]: App Capabilities documentation
+                - img "arrow" [ref=f3e430]
+              - link "WhatPwaCanDo.today, will open in separate tab" [ref=f3e432] [cursor=pointer]:
+                - /url: https://whatpwacando.today/
+                - paragraph [ref=f3e433]: WhatPwaCanDo.today
+                - img "arrow" [ref=f3e434]
+      - generic: "* * *"
+  - generic [ref=f3e5]:
+    - img "discord logo" [ref=f3e6]
+    - paragraph [ref=f3e7]:
+      - text: Want to chat? Join us on
+      - link "Click to join us on Discord" [ref=f3e8] [cursor=pointer]:
+        - /url: https://aka.ms/pwabuilderdiscord
+        - text: Discord
+    - button "discord modal close" [ref=f3e9]:
+      - img [ref=f3e11]
+  - contentinfo [ref=f3e14]:
+    - generic [ref=f3e15]:
+      - generic [ref=f3e16]: PWABuilder was founded by Microsoft as a community guided, open source project to help move PWA adoption forward.
+      - generic [ref=f3e17]:
+        - link "Our Privacy Statement" [ref=f3e18] [cursor=pointer]:
+          - /url: https://privacy.microsoft.com/en-us/privacystatement
+        - link "Consumer Health Privacy" [ref=f3e19] [cursor=pointer]:
+          - /url: https://go.microsoft.com/fwlink/?linkid=2259814
+        - link "Terms of Use" [ref=f3e20] [cursor=pointer]:
+          - /url: https://github.com/pwa-builder/PWABuilder/blob/master/TERMS_OF_USE.md
+    - generic [ref=f3e21]:
+      - link "Contribute to our Github, will open in separate tab" [ref=f3e22] [cursor=pointer]:
+        - /url: https://github.com/pwa-builder/PWABuilder
+        - generic "Contribute to our Github" [ref=f3e23]:
+          - generic:
+            - img
+      - link "Follow us on X, will open in separate tab" [ref=f3e24] [cursor=pointer]:
+        - /url: https://x.com/pwabuilder
+        - generic "Follow us on X" [ref=f3e25]:
+          - generic:
+            - img
+      - link "Subscribe to our Youtube, will open in separate tab" [ref=f3e26] [cursor=pointer]:
+        - /url: https://www.youtube.com/c/PWABuilder
+        - generic "Subscribe to our Youtube" [ref=f3e27]:
+          - generic:
+            - img
